@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.952d17df.css",
+    "main.js": "/static/js/main.b04ce6bf.js",
+    "static/media/headernetpanet.png": "/static/media/headernetpanet.e016e629d8700314860a.png",
+    "static/media/headerDisc.jpg": "/static/media/headerDisc.1ee5d79ee22cb606b64a.jpg",
+    "static/media/renaud-garcia-fons.png": "/static/media/renaud-garcia-fons.d40e233de2e77655b563.png",
+    "static/media/asso.jpg": "/static/media/asso.aae2dc42e208283c5ab2.jpg",
+    "static/media/soul-square.png": "/static/media/soul-square.eaabdd16b5a3a3d5470f.png",
+    "static/media/blast2.png": "/static/media/blast2.5086016c22a1be18ef28.png",
+    "static/media/tigran-hamasaya.png": "/static/media/tigran-hamasaya.1fe6929ac4109baf30bc.png",
+    "static/media/chris-potter.png": "/static/media/chris-potter.c45d2f33ff982110dbfc.png",
+    "static/media/mederic-colignon.png": "/static/media/mederic-colignon.39bd49c9df424c8beb09.png",
+    "static/media/bojan-z.png": "/static/media/bojan-z.5754e515dee43db7f3ec.png",
+    "static/media/eji.jpg": "/static/media/eji.05e75d0e0b23a71b7db3.jpg",
+    "static/media/ishkero.jpeg": "/static/media/ishkero.73779489a876a5794e5d.jpeg",
+    "static/media/mcr1.jpg": "/static/media/mcr1.797e26773bb417dd304f.jpg",
+    "static/media/trans3.png": "/static/media/trans3.4dfa1ebf922e33f22d28.png",
+    "static/media/mcr2.jpg": "/static/media/mcr2.d64b9e2ae8c13ab9fff5.jpg",
+    "static/media/logo-transparent.png": "/static/media/logo-transparent.830151881c62076d7a5e.png",
+    "static/media/blast.jpg": "/static/media/blast.6e7f4e4ff8c14eb786fa.jpg",
+    "static/media/logo-cercle.png": "/static/media/logo-cercle.84899fb4b34a2f6f80df.png",
+    "static/media/logo-insta.png": "/static/media/logo-insta.3dcee5232493ab88f582.png",
+    "static/media/logo-mail.png": "/static/media/logo-mail.6bdf27919ffe43346a3c.png",
+    "static/media/logo-yt.png": "/static/media/logo-yt.26e34e2180473b95773f.png",
+    "index.html": "/index.html",
+    "main.952d17df.css.map": "/static/css/main.952d17df.css.map",
+    "main.b04ce6bf.js.map": "/static/js/main.b04ce6bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.952d17df.css",
+    "static/js/main.b04ce6bf.js"
+  ]
+}
