@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.952d17df.css",
-    "main.js": "./static/js/main.eaec1916.js",
+    "main.js": "./static/js/main.214a1e50.js",
     "static/media/headernetpanet.png": "./static/media/headernetpanet.e016e629d8700314860a.png",
     "static/media/headerDisc.jpg": "./static/media/headerDisc.1ee5d79ee22cb606b64a.jpg",
     "static/media/renaud-garcia-fons.png": "./static/media/renaud-garcia-fons.d40e233de2e77655b563.png",
@@ -25,10 +25,10 @@
     "static/media/logo-yt.png": "./static/media/logo-yt.26e34e2180473b95773f.png",
     "index.html": "./index.html",
     "main.952d17df.css.map": "./static/css/main.952d17df.css.map",
-    "main.eaec1916.js.map": "./static/js/main.eaec1916.js.map"
+    "main.214a1e50.js.map": "./static/js/main.214a1e50.js.map"
   },
   "entrypoints": [
     "static/css/main.952d17df.css",
-    "static/js/main.eaec1916.js"
+    "static/js/main.214a1e50.js"
   ]
 }
