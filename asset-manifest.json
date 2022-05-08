@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.fcd03f5b.css",
-    "main.js": "./static/js/main.393dd4aa.js",
+    "main.js": "./static/js/main.845bd6df.js",
     "static/media/logo-cfc22.png": "./static/media/logo-cfc22.2d0c151ad2b34264d8a0.png",
-    "static/media/headernetpanet.png": "./static/media/headernetpanet.e016e629d8700314860a.png",
     "static/media/headerDisc.jpg": "./static/media/headerDisc.1ee5d79ee22cb606b64a.jpg",
     "static/media/renaud-garcia-fons.png": "./static/media/renaud-garcia-fons.d40e233de2e77655b563.png",
     "static/media/asso.jpg": "./static/media/asso.aae2dc42e208283c5ab2.jpg",
+    "static/media/headerComp.png": "./static/media/headerComp.09ea96bfe8562c7a7772.png",
     "static/media/soul-square.png": "./static/media/soul-square.eaabdd16b5a3a3d5470f.png",
     "static/media/benevoles.jpg": "./static/media/benevoles.8b1bb81c3e4f379f3640.jpg",
     "static/media/blast2.png": "./static/media/blast2.5086016c22a1be18ef28.png",
     "static/media/tigran-hamasaya.png": "./static/media/tigran-hamasaya.1fe6929ac4109baf30bc.png",
     "static/media/chris-potter.png": "./static/media/chris-potter.c45d2f33ff982110dbfc.png",
     "static/media/mederic-colignon.png": "./static/media/mederic-colignon.39bd49c9df424c8beb09.png",
+    "static/media/headerDiscComp.jpg": "./static/media/headerDiscComp.2ddcb8dca5de6bf1e580.jpg",
     "static/media/bojan-z.png": "./static/media/bojan-z.5754e515dee43db7f3ec.png",
     "static/media/logo-insta-2.png": "./static/media/logo-insta-2.589abff3145cc9b21c4e.png",
     "static/media/eji.jpg": "./static/media/eji.05e75d0e0b23a71b7db3.jpg",
@@ -38,10 +39,10 @@
     "static/media/logo-jsmusique.jpg": "./static/media/logo-jsmusique.4caa7b8a478eaedc5fcd.jpg",
     "index.html": "./index.html",
     "main.fcd03f5b.css.map": "./static/css/main.fcd03f5b.css.map",
-    "main.393dd4aa.js.map": "./static/js/main.393dd4aa.js.map"
+    "main.845bd6df.js.map": "./static/js/main.845bd6df.js.map"
   },
   "entrypoints": [
     "static/css/main.fcd03f5b.css",
-    "static/js/main.393dd4aa.js"
+    "static/js/main.845bd6df.js"
   ]
 }
