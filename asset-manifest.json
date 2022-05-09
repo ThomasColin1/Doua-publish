@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.dcbf0ca6.css",
-    "main.js": "./static/js/main.a2e2b124.js",
+    "main.js": "./static/js/main.05097e3b.js",
     "static/media/logo-cfc22.png": "./static/media/logo-cfc22.2d0c151ad2b34264d8a0.png",
     "static/media/headerDisc.jpg": "./static/media/headerDisc.1ee5d79ee22cb606b64a.jpg",
     "static/media/renaud-garcia-fons.png": "./static/media/renaud-garcia-fons.d40e233de2e77655b563.png",
@@ -39,10 +39,10 @@
     "static/media/logo-jsmusique.jpg": "./static/media/logo-jsmusique.4caa7b8a478eaedc5fcd.jpg",
     "index.html": "./index.html",
     "main.dcbf0ca6.css.map": "./static/css/main.dcbf0ca6.css.map",
-    "main.a2e2b124.js.map": "./static/js/main.a2e2b124.js.map"
+    "main.05097e3b.js.map": "./static/js/main.05097e3b.js.map"
   },
   "entrypoints": [
     "static/css/main.dcbf0ca6.css",
-    "static/js/main.a2e2b124.js"
+    "static/js/main.05097e3b.js"
   ]
 }
