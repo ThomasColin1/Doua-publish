@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.dcbf0ca6.css",
+    "main.css": "./static/css/main.0dccc318.css",
     "main.js": "./static/js/main.85c94351.js",
     "static/media/logo-cfc22.png": "./static/media/logo-cfc22.2d0c151ad2b34264d8a0.png",
     "static/media/headerDisc.jpg": "./static/media/headerDisc.1ee5d79ee22cb606b64a.jpg",
@@ -38,11 +38,11 @@
     "static/media/logo-rhinojazz.jpg": "./static/media/logo-rhinojazz.8981d23934d899197855.jpg",
     "static/media/logo-jsmusique.jpg": "./static/media/logo-jsmusique.4caa7b8a478eaedc5fcd.jpg",
     "index.html": "./index.html",
-    "main.dcbf0ca6.css.map": "./static/css/main.dcbf0ca6.css.map",
+    "main.0dccc318.css.map": "./static/css/main.0dccc318.css.map",
     "main.85c94351.js.map": "./static/js/main.85c94351.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcbf0ca6.css",
+    "static/css/main.0dccc318.css",
     "static/js/main.85c94351.js"
   ]
 }
