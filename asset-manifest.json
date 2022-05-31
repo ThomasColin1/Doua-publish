@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.8aa07761.css",
-    "main.js": "./static/js/main.a03b1c6f.js",
+    "main.js": "./static/js/main.4972efea.js",
     "static/media/logo-cfc22.png": "./static/media/logo-cfc22.2d0c151ad2b34264d8a0.png",
     "static/media/glasper.jpg": "./static/media/glasper.118d2c9909af60d01934.jpg",
     "static/media/headerDisc.jpg": "./static/media/headerDisc.1ee5d79ee22cb606b64a.jpg",
@@ -38,10 +38,10 @@
     "static/media/logo-jsmusique.jpg": "./static/media/logo-jsmusique.4caa7b8a478eaedc5fcd.jpg",
     "index.html": "./index.html",
     "main.8aa07761.css.map": "./static/css/main.8aa07761.css.map",
-    "main.a03b1c6f.js.map": "./static/js/main.a03b1c6f.js.map"
+    "main.4972efea.js.map": "./static/js/main.4972efea.js.map"
   },
   "entrypoints": [
     "static/css/main.8aa07761.css",
-    "static/js/main.a03b1c6f.js"
+    "static/js/main.4972efea.js"
   ]
 }
