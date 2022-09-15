@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c926eee1.css",
-    "main.js": "./static/js/main.bca0c995.js",
+    "main.js": "./static/js/main.8dba1819.js",
     "static/media/CSW.jpg": "./static/media/CSW.242520b7389b593015f1.jpg",
     "static/media/logo-cfc22.png": "./static/media/logo-cfc22.2d0c151ad2b34264d8a0.png",
     "static/media/emile.jpg": "./static/media/emile.2dbef2174fe7d2a6f5d7.jpg",
@@ -33,12 +33,14 @@
     "static/media/gaspard.jpg": "./static/media/gaspard.e0b2a43e7fb77e9d13af.jpg",
     "static/media/logo-insa.png": "./static/media/logo-insa.d0eba1c8864b08a9b194.png",
     "static/media/CSW_square.jpg": "./static/media/CSW_square.df2c05a73d0337b6e3b3.jpg",
+    "static/media/logo-baguetterie.jpg": "./static/media/logo-baguetterie.027fe0dca2df2cb307dc.jpg",
     "static/media/emile2.jpg": "./static/media/emile2.a0d16d6a80811e4f65ee.jpg",
     "static/media/anomalie.jpg": "./static/media/anomalie.0f896fd2b0e8359a0693.jpg",
     "static/media/gaspard2.jpg": "./static/media/gaspard2.3f452102404567318d12.jpg",
     "static/media/logo-va.png": "./static/media/logo-va.c365c76b26daa43afdc3.png",
     "static/media/cory.jpg": "./static/media/cory.7188fb721777d9bc78f5.jpg",
     "static/media/logo-yt-2.png": "./static/media/logo-yt-2.97c4f7a3982ae1bcb28e.png",
+    "static/media/logo-mediatheques.jpg": "./static/media/logo-mediatheques.7f6f03d65479bf42754b.jpg",
     "static/media/logo-fb-2.png": "./static/media/logo-fb-2.9b67d907e019495797ee.png",
     "static/media/garcia.jpg": "./static/media/garcia.d31a268accf2d4b71c89.jpg",
     "static/media/bertaut.jpg": "./static/media/bertaut.a5c5d5299ca40105e451.jpg",
@@ -47,6 +49,7 @@
     "static/media/logo-transparent.png": "./static/media/logo-transparent.830151881c62076d7a5e.png",
     "static/media/logo-grandlyon.png": "./static/media/logo-grandlyon.ff3f082c43149b49bb23.png",
     "static/media/logo-cercle.png": "./static/media/logo-cercle.84899fb4b34a2f6f80df.png",
+    "static/media/logo-ministere.png": "./static/media/logo-ministere.0375b0d759e2df7d6c4f.png",
     "static/media/glyk.jpeg": "./static/media/glyk.0707ea0cf464e5f81f48.jpeg",
     "static/media/logo-insta.png": "./static/media/logo-insta.3dcee5232493ab88f582.png",
     "static/media/logo-crous.jpg": "./static/media/logo-crous.5d5b2c222801da660dc3.jpg",
@@ -56,10 +59,10 @@
     "static/media/logo-jsmusique.jpg": "./static/media/logo-jsmusique.4caa7b8a478eaedc5fcd.jpg",
     "index.html": "./index.html",
     "main.c926eee1.css.map": "./static/css/main.c926eee1.css.map",
-    "main.bca0c995.js.map": "./static/js/main.bca0c995.js.map"
+    "main.8dba1819.js.map": "./static/js/main.8dba1819.js.map"
   },
   "entrypoints": [
     "static/css/main.c926eee1.css",
-    "static/js/main.bca0c995.js"
+    "static/js/main.8dba1819.js"
   ]
 }
