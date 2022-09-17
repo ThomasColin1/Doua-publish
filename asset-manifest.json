@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c926eee1.css",
-    "main.js": "./static/js/main.824371c6.js",
+    "main.css": "./static/css/main.e1ce22d4.css",
+    "main.js": "./static/js/main.39e42f3e.js",
     "static/media/CSW.jpg": "./static/media/CSW.242520b7389b593015f1.jpg",
     "static/media/logo-cfc22.png": "./static/media/logo-cfc22.2d0c151ad2b34264d8a0.png",
     "static/media/emile.jpg": "./static/media/emile.2dbef2174fe7d2a6f5d7.jpg",
@@ -12,6 +12,7 @@
     "static/media/zeph.jpg": "./static/media/zeph.7176cf8930063682a172.jpg",
     "static/media/cimes.jpg": "./static/media/cimes.549dc70a65bf60261e31.jpg",
     "static/media/headerDisc.jpg": "./static/media/headerDisc.1ee5d79ee22cb606b64a.jpg",
+    "static/media/duda2.jpg": "./static/media/duda2.d3b5f508b46a5c46e44d.jpg",
     "static/media/yellowstraps.jpg": "./static/media/yellowstraps.8d05bff8f2269cbbc1ba.jpg",
     "static/media/asso.jpg": "./static/media/asso.aae2dc42e208283c5ab2.jpg",
     "static/media/GTO.jpg": "./static/media/GTO.f09236f01998cbc69b13.jpg",
@@ -21,6 +22,7 @@
     "static/media/benevoles.jpg": "./static/media/benevoles.8b1bb81c3e4f379f3640.jpg",
     "static/media/tigran-hamasaya.png": "./static/media/tigran-hamasaya.1fe6929ac4109baf30bc.png",
     "static/media/chris-potter.png": "./static/media/chris-potter.c45d2f33ff982110dbfc.png",
+    "static/media/gogo.png": "./static/media/gogo.86204dae42f0c4453e15.png",
     "static/media/foehn.jpg": "./static/media/foehn.0a2834207b551cebb56e.jpg",
     "static/media/zeph2.jpg": "./static/media/zeph2.4a2873384356218e5b0a.jpg",
     "static/media/jet.jpg": "./static/media/jet.f7af950ee6a95e3d1d14.jpg",
@@ -35,6 +37,7 @@
     "static/media/CSW_square.jpg": "./static/media/CSW_square.df2c05a73d0337b6e3b3.jpg",
     "static/media/logo-baguetterie.jpg": "./static/media/logo-baguetterie.027fe0dca2df2cb307dc.jpg",
     "static/media/emile2.jpg": "./static/media/emile2.a0d16d6a80811e4f65ee.jpg",
+    "static/media/duda.jpg": "./static/media/duda.2eab3d52a1b5738aaf15.jpg",
     "static/media/anomalie.jpg": "./static/media/anomalie.0f896fd2b0e8359a0693.jpg",
     "static/media/gaspard2.jpg": "./static/media/gaspard2.3f452102404567318d12.jpg",
     "static/media/logo-va.png": "./static/media/logo-va.c365c76b26daa43afdc3.png",
@@ -58,11 +61,11 @@
     "static/media/logo-rhinojazz.jpg": "./static/media/logo-rhinojazz.8981d23934d899197855.jpg",
     "static/media/logo-jsmusique.jpg": "./static/media/logo-jsmusique.4caa7b8a478eaedc5fcd.jpg",
     "index.html": "./index.html",
-    "main.c926eee1.css.map": "./static/css/main.c926eee1.css.map",
-    "main.824371c6.js.map": "./static/js/main.824371c6.js.map"
+    "main.e1ce22d4.css.map": "./static/css/main.e1ce22d4.css.map",
+    "main.39e42f3e.js.map": "./static/js/main.39e42f3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c926eee1.css",
-    "static/js/main.824371c6.js"
+    "static/css/main.e1ce22d4.css",
+    "static/js/main.39e42f3e.js"
   ]
 }
